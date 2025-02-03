@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1540277552",
+        "name": "GRAPHIITE",
+        "tagline": "Stay fit with quick workouts at home",
+        "app_store_url": "https://apps.apple.com/app/graphiite/id1540277552",
+        "thumbnail_url": "https://raw.githubusercontent.com/maxhumber/adslol/master/thumbnails/GRAPHIITE.jpg"
+    },
+    {
+        "id": "1549289924",
+        "name": "Oolong",
+        "tagline": "Plan for your financial future",
+        "app_store_url": "https://apps.apple.com/app/oolong/id1549289924",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "1632470402",
+        "name": "Ponkan",
+        "tagline": "Practice Mandarin with instant feedback",
+        "app_store_url": "https://apps.apple.com/app/ponkan/id1632470402",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "1620912870",
+        "name": "BreadBuddy",
+        "tagline": "Perfect timing for perfect bread",
+        "app_store_url": "https://apps.apple.com/app/breadbuddy/id1620912870",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "1565583669",
+        "name": "kingbit",
+        "tagline": "Chess with a twist",
+        "app_store_url": "https://apps.apple.com/app/kingbit/id1565583669",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "6479674361",
+        "name": "Nexie",
+        "tagline": "Track your shows, never miss an episode",
+        "app_store_url": "https://apps.apple.com/app/nexie/id6479674361",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "6477720856",
+        "name": "uvu",
+        "tagline": "Browse reddit profiles, no duplicates",
+        "app_store_url": "https://apps.apple.com/app/uvu/id6477720856",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "6739646488",
+        "name": "timeseal",
+        "tagline": "Messages, sealed for the future",
+        "app_store_url": "https://apps.apple.com/app/timeseal/id6739646488",
+        "thumbnail_url": ""
+    },
+    {
+        "id": "6740934801",
+        "name": "mantraray",
+        "tagline": "Daily mantras that stick",
+        "app_store_url": "https://apps.apple.com/app/mantraray/id6740934801",
+        "thumbnail_url": ""
+    }
+]
